@@ -1,6 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
 
 **InnerLight** is a comprehensive wellness application designed to help users achieve mental clarity and spiritual growth. It combines mood tracking, daily wisdom, breathing exercises, and a curated library of spiritual audiobooks into a single, cohesive experience. The application features a beautiful, spiritually aligned "Orange & Yellow" theme that evokes energy, warmth, and positivity.
